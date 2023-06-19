@@ -26,9 +26,8 @@ A comprehensive web developer portfolio that showcases my expertise in building 
   - [👥 Authors ](#-authors-)
   - [🔭 Future Features ](#-future-features-)
   - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
   - [📝 License](#license)
-  - 
+
 
   
 ## 🛠 Built With <a name="built-with"></a>
