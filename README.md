@@ -124,11 +124,12 @@ npm start
 - GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
 - LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
 
-- 👤 **Andrea Rivas**
+- 👤 **José Fernández-Caminero**
 
-- GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
-- LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
-- 
+- GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
+- LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
+
+LinkedIn: José Fernández-Caminero
 - 👤 **Andrea Rivas**
 
 - GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
