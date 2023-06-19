@@ -5,7 +5,7 @@
 #  📖 My Portfolio - Practice Bootstrap <a name="about-project"></a>
 
 
-A comprehensive web developer portfolio that showcases my expertise in building stunning and functional websites. This is a practice exercise done as part as a collaborative exercise with the goal to learn Bootstrap
+A comprehensive web developer portfolio that showcases my expertise in building stunning and functional websites. This portfolio serves as a practice exercise that I completed as part of a collaborative effort with the goal of learning Bootstrap.
 </div>
 
 
@@ -129,11 +129,11 @@ npm start
 - GitHub: [@fdezcaminero](https://github.com/fdezcaminero)
 - LinkedIn: [José Fernández-Caminero](https://www.linkedin.com/in/fdezcaminero/)
 
-LinkedIn: José Fernández-Caminero
-- 👤 **Andrea Rivas**
 
-- GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
-- LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
+- 👤 **Carlos Philippe**
+
+- GitHub: [@Carl2678](https://github.com/Carl2678)
+- LinkedIn: [Carlos Philippe](https://www.linkedin.com/in/carlos-philippe-67915067/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
