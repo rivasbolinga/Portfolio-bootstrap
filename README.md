@@ -42,9 +42,9 @@ A comprehensive web developer portfolio that showcases my expertise in building 
 
 <!-- > Describe between 1-3 key features of the application.-->
 
-- [ ] **Collaborative session**
-- [ ] **Nice design**
-- [ ] **Bootstrap elements**
+- [ ] **Bootstrap contact form**
+- [ ] **Bootstrap containers**
+- [ ] **Bootstrap navigation**
 
 
 
