@@ -55,7 +55,7 @@ A comprehensive web developer portfolio that showcases my expertise in building 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-You can see the lice demo 📍 [here](https://andrearivas.netlify.app/)
+You can see the lice demo 📍 [here](https://rivasbolinga.github.io/Portfolio-bootstrap/#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ In order to run this project you need:
 
 
 ```
-git clone https://github.com/rivasbolinga/my-portfolio.git
+git clone https://github.com/rivasbolinga/Portfolio-bootstrap.git
 ```
 
 - [ ] Open the file in your code editor
@@ -124,13 +124,23 @@ npm start
 - GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
 - LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
 
+- 👤 **Andrea Rivas**
+
+- GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
+- LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
+- 
+- 👤 **Andrea Rivas**
+
+- GitHub: [@rivasbolinga](https://github.com/rivasbolinga)
+- LinkedIn: [Andrea Rivas](https://www.linkedin.com/in/andrearivaspalacios/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Features -->
 ## 🔭 Future Features <a name="future-features"></a>
 My portfolio is still under construction so there are much more on the way:
 - [ ] **Improve design**
-- [ ] **Contact section**
+- [ ] **Fill up all the content**
 - [ ] **My works section**
 - [ ] **About me section**
 
@@ -142,7 +152,7 @@ My portfolio is still under construction so there are much more on the way:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [Issues](https://github.com/rivasbolinga/my-portfolio/issues).
+Feel free to check the [Issues](https://github.com/rivasbolinga/Portfolio-bootstrap/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
